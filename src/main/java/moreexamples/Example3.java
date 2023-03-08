@@ -11,8 +11,10 @@ public class Example3 {
             do {
                 System.out.println(numeros[i]);
                 i++;
-            } while (true);
-        }catch (Exception e){}
+            } while (i<=numeros.length);
+        }catch (Exception e){
+            System.out.println("MALLLL");
+        }
         // ¡¡¡¡¡ Prohibido !!!!!
     }
 }

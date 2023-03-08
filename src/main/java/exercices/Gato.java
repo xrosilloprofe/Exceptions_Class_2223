@@ -1,5 +1,7 @@
 package exercices;
 
+import java.io.FileReader;
+
 /**
  * Implementa una clase Gato con los atributos nombre y edad, un constructor con parámetros,
  *  *   los getters y setters, además del método toString() para mostrar los datos de un gato.
